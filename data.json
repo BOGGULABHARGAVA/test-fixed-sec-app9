@@ -1,0 +1,6 @@
+{
+  "company": "Apple Inc. (AAPL)",
+  "cik": "0000320193",
+  "api_url": "https://data.sec.gov/api/xbrl/companyconcept/CIK0000320193/dei/EntityCommonStockSharesOutstanding.json",
+  "note": "Data will be fetched dynamically by the HTML page"
+}
